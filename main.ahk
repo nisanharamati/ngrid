@@ -5,4 +5,3 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory
 
 
 #Include gridfunctions.ahk
-#Include testinc.ahk
